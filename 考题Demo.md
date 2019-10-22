@@ -28,7 +28,7 @@
 
 **2.1** 【5.0】根据展示的单据，建立相应货品，调好打印模板，开单操作打印出一样的单据。请使用自己的信息作为客户和经手人信息。（21分）
 
-![avatar](/image/5.0打印图片.png)
+![avatar](https://picture-1300351636.cos.ap-guangzhou.myqcloud.com/Image/5.0%E6%89%93%E5%8D%B0%E5%9B%BE%E7%89%87.png)
 
 **考点：**
 
@@ -42,7 +42,7 @@
 
 2.2 【7.0】根据展示的单据，建立相应货品，调好打印模板，开单操作打印出一样的单据。请使用自己的信息作为客户和经手人信息。（21分）
 
-![avatar](/image/7.0打印图片.png)
+![avatar](https://picture-1300351636.cos.ap-guangzhou.myqcloud.com/Image/7.0%E6%89%93%E5%8D%B0%E5%9B%BE%E7%89%87.png)
 
 **考点：**
 
@@ -56,4 +56,4 @@
 
 2.3 【7.0】通过商家后台新建货品（14分）货品样例见附图。答题结果请附截图
 
-![avatar](/image/新建货品1.png)
+![avatar](https://picture-1300351636.cos.ap-guangzhou.myqcloud.com/Image/%E6%96%B0%E5%BB%BA%E8%B4%A7%E5%93%811.png)
